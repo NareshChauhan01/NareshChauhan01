@@ -15,7 +15,7 @@
 
 💬 Ask me about **Node.js, React, or anything [here](https://github.com/NareshSingh01)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Oggy has the biggest house in the world**
 
  </div>
 
