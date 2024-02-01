@@ -50,6 +50,7 @@
 <span>
     &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nareshsingh01&show_icons=true&locale=en" alt="nareshsingh01" />
 </span>
+<br/><br/><br/>
 <span>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nareshsingh01&" alt="nareshsingh01" />
 </span>
