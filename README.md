@@ -48,15 +48,15 @@
 <div align=center>
 
 <span>
-    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nareshsingh01&show_icons=true&locale=en" alt="nareshsingh01" />
+    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nareshchauhan01&show_icons=true&locale=en" alt="nareshchauhan01" />
 </span>
 <br/><br/><br/>
 <span>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nareshsingh01&" alt="nareshsingh01" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nareshchauhan01&" alt="nareshchauhan01" />
 </span>
 <br/><br/><br/>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nareshsingh01&show_icons=true&locale=en&layout=compact" alt="nareshsingh01" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nareshchauhan01&show_icons=true&locale=en&layout=compact" alt="nareshchauhan01" />
 </p>
 </div>
 
