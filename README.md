@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naresh+Chauhan!;" />
 </h1>
 
-<h3 align="center">A passionate Mern Stack developer from India</h3>
+<h3 align="center">I'm passionate Mern Stack developer from India 🇮🇳</h3>
 
 <br/>
 
@@ -13,7 +13,11 @@
  
  🌱 I’m currently learning **React Native, Data Structures and Algorithms**
 
+ Link :- <a href="https://nareshchauhan01.github.io/Portfolio/" target="_blank">Visit My Portfolio</a>
+
 💬 Ask me about **Mern Stack, C++**
+
+Contact:- <a href="mailto:nareshsingh0170@gmail.com">nareshsingh0170@gmail.com</a>
 
 ⚡ Fun fact **Oggy has the biggest house in the world**
 
