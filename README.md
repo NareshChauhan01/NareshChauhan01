@@ -47,7 +47,7 @@
 <br>
 <div align=center>
 
-<br/><br/><br/>
+<br/>
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nareshchauhan01&show_icons=true&locale=en&layout=compact" alt="nareshchauhan01" />
