@@ -44,19 +44,3 @@ Contact:- <a href="mailto:nareshsingh0170@gmail.com">nareshsingh0170@gmail.com</
   
   <br/><br/><br/>
 </div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-
-<br/>
-
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nareshchauhan01&show_icons=true&locale=en&layout=compact" alt="nareshchauhan01" />
-</p>
-</div>
-
-<br/><br/>
-
