@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **React Native, Data Structures and Algorithms**
 
-💬 Ask me about **Mern Stack, C++ **
+💬 Ask me about **Mern Stack, C++**
 
 ⚡ Fun fact **Oggy has the biggest house in the world**
 
