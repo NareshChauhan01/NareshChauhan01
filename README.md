@@ -11,9 +11,9 @@
  
  🔭 I’m currently working on **Mern Stack**
  
- 🌱 I’m currently learning **React Native**
+ 🌱 I’m currently learning **React Native, Data Structures and Algorithms**
 
-💬 Ask me about **Node.js, React, or anything [here](https://github.com/NareshSingh01)**
+💬 Ask me about **Mern Stack, C++ **
 
 ⚡ Fun fact **Oggy has the biggest house in the world**
 
@@ -26,8 +26,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,javascript,vscode,github,figma,tailwind,git," />
+    <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,mongodb,c,java,nextjs,mysql" /><br>
 </div>
 
 <br/>
@@ -47,14 +47,8 @@
 <br>
 <div align=center>
 
-<span>
-    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nareshchauhan01&show_icons=true&locale=en" alt="nareshchauhan01" />
-</span>
 <br/><br/><br/>
-<span>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nareshchauhan01&" alt="nareshchauhan01" />
-</span>
-<br/><br/><br/>
+
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nareshchauhan01&show_icons=true&locale=en&layout=compact" alt="nareshchauhan01" />
 </p>
