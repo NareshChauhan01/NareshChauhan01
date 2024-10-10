@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naresh+Chauhan!;" />
 </h1>
 
-<h3 align="center">I'm passionate Mern Stack developer from India 🇮🇳</h3>
+<h3 align="center">I'm passionate Mern Stack developer from India</h3>
 
 <br/>
 
@@ -23,9 +23,7 @@ Contact:- <a href="mailto:nareshsingh0170@gmail.com">nareshsingh0170@gmail.com</
 
  </div>
 
- <hr/>
-
- 
+ <hr/> 
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -40,7 +38,6 @@ Contact:- <a href="mailto:nareshsingh0170@gmail.com">nareshsingh0170@gmail.com</
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />  
+  <br/><br/>
 </div>
